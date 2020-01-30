@@ -4,7 +4,7 @@ In the current working directory, tells you if any matching files have changed b
 
 Useable from node or the command-line.
 
-Accepts github range URLs, so you can use [`CIRCLE_COMPARE_URL`](https://circleci.com/docs/2.0/env-vars/#build-details):
+Accepts github range URLs, so you can use [`CIRCLE_COMPARE_URL`](https://circleci.com/docs/2.0/env-vars/#built-in-environment-variables):
 
 ```sh
 check-if-folder-contents-changed-in-git-commit-range some-folder/**/*.js $CIRCLE_COMPARE_URL
