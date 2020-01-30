@@ -1,6 +1,6 @@
 {
   "name": "check-if-folder-contents-changed-in-git-commit-range",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if folder contents changed in a git commit range",
   "main": "index.js",
   "scripts": {
