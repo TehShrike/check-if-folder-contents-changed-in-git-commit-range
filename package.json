@@ -42,6 +42,6 @@
   "dependencies": {
     "minimatch": "3.0.4",
     "mri": "1.1.0",
-    "shell-tag": "~1.0.1"
+    "shell-tag": "^1.0.4"
   }
 }
